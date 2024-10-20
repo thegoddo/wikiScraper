@@ -12,6 +12,6 @@ Scrapes wikipedia to gather information.
    wiki_scrape -s [subject] -m # for more output
 ```
 
-[ ] Still incomplete, not all titles are being loaded correctly.
+- [ ] Still incomplete, not all titles are being loaded correctly.
 
-[ ] 2. still need formatting the text.
+- [ ] 2. still need formatting the text.

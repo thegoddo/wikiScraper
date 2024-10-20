@@ -13,4 +13,5 @@ Scrapes wikipedia to gather information.
 ```
 
 [ ] Still incomplete, not all titles are being loaded correctly.
+
 [ ] 2. still need formatting the text.
